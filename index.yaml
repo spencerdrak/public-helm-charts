@@ -3,7 +3,7 @@ entries:
   cloudflare-ddns:
   - apiVersion: v2
     appVersion: 2.0.0
-    created: "2023-10-04T20:49:43.729732-06:00"
+    created: "2023-10-04T21:04:40.693818-06:00"
     description: A Helm chart for Kubernetes
     digest: bd74a6a33a3a0f518942acbcd26b9d6b92ba14291e1157986229fd8d650ef491
     name: cloudflare-ddns
@@ -13,7 +13,7 @@ entries:
     version: 1.2.0
   - apiVersion: v2
     appVersion: 2.0.0
-    created: "2023-10-04T20:49:43.729341-06:00"
+    created: "2023-10-04T21:04:40.692686-06:00"
     description: A Helm chart for Kubernetes
     digest: 22caa1ab68101b00e037c813c576af99ab8cb68d5c8fe97852cf874404862d9b
     name: cloudflare-ddns
@@ -23,7 +23,7 @@ entries:
     version: 1.1.0
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2023-10-04T20:49:43.727845-06:00"
+    created: "2023-10-04T21:04:40.691695-06:00"
     description: A Helm chart for Kubernetes
     digest: e7d47e42ead51ffae372c4817c3c4ef531de11b6e9f1365265c60f58611a2c7a
     name: cloudflare-ddns
@@ -33,7 +33,7 @@ entries:
     version: 1.0.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-10-04T20:49:43.727461-06:00"
+    created: "2023-10-04T21:04:40.689447-06:00"
     description: A Helm chart for Kubernetes
     digest: df1e961732b7a64a3dc63e9962d62a21ba4d7af47fb7f5f7899c8b253fd08d2c
     name: cloudflare-ddns
@@ -44,7 +44,17 @@ entries:
   speedtest-exporter:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-10-04T20:49:43.730164-06:00"
+    created: "2023-10-04T21:04:40.695643-06:00"
+    description: A Helm chart for Kubernetes
+    digest: 3e19251a72fb3e30ce0ebba2667a2be279ad514881c2ed2a7c313db141b209be
+    name: speedtest-exporter
+    type: application
+    urls:
+    - speedtest-exporter-0.9.0.tgz
+    version: 0.9.0
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-10-04T21:04:40.694824-06:00"
     description: A Helm chart for Kubernetes
     digest: 1914c26975137cf88e48053a2a582a9b728da7a3a3c044fecd4ee92afdb16889
     name: speedtest-exporter
@@ -52,4 +62,4 @@ entries:
     urls:
     - speedtest-exporter-0.1.0.tgz
     version: 0.1.0
-generated: "2023-10-04T20:49:43.726467-06:00"
+generated: "2023-10-04T21:04:40.687778-06:00"
